@@ -1,0 +1,5 @@
+.idea/
+.venv/
+*.exe
+/feedback-collector
+/Модуль 11 Практическая работа.docx
